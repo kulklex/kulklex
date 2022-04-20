@@ -47,7 +47,7 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulklex)](https://github.com/kulklex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulklex&&layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=404249&amp;title_color=F85D7F&amp;icon_color=78F866)](https://github.com/kulklex/github-readme-stats)
 <!--
 **kulklex/kulklex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
