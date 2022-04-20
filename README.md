@@ -46,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"  title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulklex)](https://github.com/kulklex/github-readme-stats)
 <!--
 **kulklex/kulklex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
