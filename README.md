@@ -17,12 +17,12 @@
 </div>
 <br></br>
 
-### :man_technologist: About Me : I am a MERN  Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :man_technologist: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Software Engineer using frontend and backend technologies for building web applications.
 
 - :seedling: Eager to build projects and Stay tuned with the latest IT trends..
 
-- :zap: Learn More About me: https://kulklex.github.io/
+- :zap: Learn More About me: https://kulklex.vercel.app/
 
 
 - ### :hammer_and_wrench: Languages and Tools :
